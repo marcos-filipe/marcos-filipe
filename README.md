@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marcos Filipe
-- 👀 I’m interested in  HTML,CSS,JavaScript,React,PHP.
-- 🌱 I’m currently learning  JQuery,React e PHP.
+- 👋 Hi, I’m Marcos Filipe Front-end Developer
+- 👀 I’m interested in  HTML, CSS, JavaScript, React, PHP.
+- 🌱 I’m currently learning  JQuery, React e PHP.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/mfilipe-dev/
 
